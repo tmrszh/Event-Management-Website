@@ -134,3 +134,4 @@ final-project-events/
 This is a university final project. Feel free to fork and improve!
 
 Developed by **tmrszh**
+# Event-Management-Website
