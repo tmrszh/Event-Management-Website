@@ -42,8 +42,8 @@
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/final-project-events.git
-    cd final-project-events
+    git clone https://github.com/tmrszh/Event-Management-Website.git
+    cd Event-Management-Website
     ```
 
 2. **Install dependencies**
@@ -134,4 +134,3 @@ final-project-events/
 This is a university final project. Feel free to fork and improve!
 
 Developed by **tmrszh**
-# Event-Management-Website
